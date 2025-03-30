@@ -1,0 +1,9 @@
+CLASS zbp_27d_i_trip_plan DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF y27d_i_trip_plan.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_27D_I_TRIP_PLAN IMPLEMENTATION.
+ENDCLASS.
